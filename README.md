@@ -20,6 +20,3 @@ QRS detection holds a pivotal role in ECG data analysis, profoundly contributing
 
 For inquiries or potential collaborations, please don't hesitate to reach out to [Nader Nemati](mailto:nnevar@utu.fi).
 
----
-
-**Note:** Remember to replace placeholders like "Your Name" and "your.email@example.com" with your actual contact information. This repository readme provides insights into the ECG QRS detection algorithm, elucidates its intricate signal processing steps, and underscores the importance of QRS complex detection in comprehending cardiac well-being. It additionally encourages exploration, engagement, and potential contributions from the wider GitHub community.
